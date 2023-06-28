@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "QQperm"]
 	path = QQperm
 	url = https://github.com/cran/QQperm
-	shallow = true
-	registered = true
